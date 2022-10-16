@@ -1,4 +1,4 @@
-Copyright (c) 2022，金留庆 (ceo@typeface.cn)，保留字体名称“金字社开源二次元字体”。
+Copyright (c) 2022，金留庆 (ceo@typeface.cn)，保留字体名称“金字社开源二次元体”。
 
 本字体软件以《金字社开源字体许可协议》授权。
 
